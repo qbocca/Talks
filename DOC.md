@@ -292,6 +292,10 @@ Bishop, G. N., & Peabody, G. F. (1953). Native trees of Georgia. Georgia
 Department of Forestry, School of Forestry, University of Georgia,
 Georgia Agricultural Extension Service.
 
+Fokkema M, Zeileis A. Subgroup detection in linear growth curve models with generalized linear mixed model (GLMM) trees. Behav Res Methods. 2024 Oct;56(7):6759-6780. doi: 10.3758/s13428-024-02389-1. Epub 2024 May 29. PMID: 38811518; PMCID: PMC11543751.
+
+Johnson W, Balakrishna N, Griffiths PL. Modeling physical growth using mixed effects models. Am J Phys Anthropol. 2013 Jan;150(1):58-67. doi: 10.1002/ajpa.22128. PMID: 23283665; PMCID: PMC3539280.
+
 Ogana, Friday N., P. Corey Green, and Phil Radtke. “Modeling the growth
 and yield of natural hardwood stands in the southern United States using
 the Forest Inventory and Analysis data.” Forest Ecology and Management
@@ -305,4 +309,5 @@ p. <https://doi.org/10.2737/FS-RU-484>.
 USDA Forest Service. 2021. Forests of Georgia, 2019. Resource Update
 FS-310. Asheville, NC: U.S. Department of Agriculture, Forest Service.
 2p. <https://doi.org/10.2737/FS-RU-310> .
+
 
