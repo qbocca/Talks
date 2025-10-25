@@ -310,4 +310,7 @@ USDA Forest Service. 2021. Forests of Georgia, 2019. Resource Update
 FS-310. Asheville, NC: U.S. Department of Agriculture, Forest Service.
 2p. <https://doi.org/10.2737/FS-RU-310> .
 
+Uzoh, Fabian CC, and William W. Oliver. "Individual tree height increment model for managed even-aged stands of ponderosa pine throughout the western United States using linear mixed effects models." Forest Ecology and Management 221.1-3 (2006): 147-154.
+
+Uzoh, F. C., & Oliver, W. W. (2008). Individual tree diameter increment model for managed even-aged stands of ponderosa pine throughout the western United States using a multilevel linear mixed effects model. Forest Ecology and Management, 256(3), 438-445.
 
