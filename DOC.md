@@ -1,6 +1,5 @@
 Niche-based grouping for mixed species growth and yield models: SOMENS.
 ================
-Quentin Boccaleri
 
 ## Notes
 
@@ -306,3 +305,4 @@ p. <https://doi.org/10.2737/FS-RU-484>.
 USDA Forest Service. 2021. Forests of Georgia, 2019. Resource Update
 FS-310. Asheville, NC: U.S. Department of Agriculture, Forest Service.
 2p. <https://doi.org/10.2737/FS-RU-310> .
+
